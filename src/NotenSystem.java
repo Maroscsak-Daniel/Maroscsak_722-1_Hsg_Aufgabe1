@@ -59,7 +59,5 @@ public class NotenSystem {
         return max;
     }
 
-    // Hauptmethode zum Testen
-
 }
 
