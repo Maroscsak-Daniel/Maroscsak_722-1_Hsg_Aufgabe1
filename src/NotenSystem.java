@@ -58,6 +58,5 @@ public class NotenSystem {
         }
         return max;
     }
-
 }
 
